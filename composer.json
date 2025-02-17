@@ -14,7 +14,7 @@
     "alibabacloud/tea-utils": "^0.2.0",
     "brooke1220/tea-oss-utils": "^0.3.0",
     "alibabacloud/tea-xml": "^0.2",
-    "alibabacloud/tea-fileform": "^0.3.0",
+    "brooke1220/tea-fileform": "^0.3.0",
     "alibabacloud/credentials": "^1.1"
   },
   "autoload": {
